@@ -15,7 +15,9 @@ class Graph:
     nb_edges: int
         The number of edges. 
     """
-
+    """
+    essaie pour voir si la fonction commit fonctionne
+    """
     def __init__(self, nodes=[]):
         """
         Initializes the graph with a set of nodes, and no edges. 
